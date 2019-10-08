@@ -44,5 +44,6 @@
 }
 header {
     min-height: calc(100vh - 91.8px);
-    background: url('./img/header-bcg.jpeg')
+    background: url('./img/header-bcg.jpeg')center/cover no-repeat;
+
 }
