@@ -25,6 +25,11 @@
 .navbar__links {
     list-style-type:none;
     transition: all 2s ease; 
+    height: 0px;
+    overflow: hidden;
+}
+.navbar__collapse {
+    height: 240px;
 }
 .navbar__single-link {
     display: block;
