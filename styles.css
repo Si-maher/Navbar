@@ -57,7 +57,7 @@ transform: rotate(45deg) translate(-7px, -8px)
     background: #545454
 }
 header {
-    min-height: calc(100vh - 91.8px);
+    min-height: calc(101vh - 91.8px);
     background: url('./img/header-bcg.jpeg')center/cover no-repeat;
 
 }
